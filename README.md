@@ -7,7 +7,7 @@ Lets start with my pic
 
 ![alt text](https://github.com/salar-shdk/tsp_art/blob/master/pics/me_figure0.jpg)
 
-First it takes an image as input and converts it to black & with image; then makes it pure black and with using a threshold, result is something like this
+First it takes an image as input and converts it to black & white image; then makes it pure black and white using a threshold, result is something like this
 
 ![alt text](https://github.com/salar-shdk/tsp_art/blob/master/pics/me_figure1.png)
 
