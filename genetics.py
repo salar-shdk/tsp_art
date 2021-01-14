@@ -1,4 +1,7 @@
-import cv2 , sys , random , math
+import cv2
+import sys
+import random
+import math
 import numpy as np 
 import matplotlib.pyplot as plt
 from copy import deepcopy
